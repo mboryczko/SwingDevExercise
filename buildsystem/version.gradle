@@ -1,0 +1,56 @@
+Integer getJenkinsVersionCode() {
+    int version_code
+    try {
+        version_code = Integer.parseInt(System.getenv("BUILD_NUMBER"))
+        if(version_code == null) {
+            version_code = 0
+        }
+        return version_code
+    } catch(NumberFormatException e) {
+        return 0
+    }
+}
+
+String getJenkinsVersionName(int version_code) {
+    int release_count
+    release_count = version_code / 1000
+    return '1.' + release_count + "." + (version_code % 1000)
+}
+
+String getGitHash() {
+    String git_hash
+    try {
+        git_hash = System.getenv("GIT_COMMIT")
+        if(git_hash == null) {
+            git_hash = ""
+        }
+        return git_hash
+    } catch(Exception e) {
+        return ""
+    }
+}
+
+ext {
+    getJenkinsVersionName = this.&getJenkinsVersionName
+    getJenkinsVersionCode = this.&getJenkinsVersionCode
+    getGitHash = this.&getGitHash
+}
+
+
+android {
+
+    applicationVariants.all { variant ->
+        def project = project.name
+        def SEP = "-"
+        def flavor = variant.productFlavors[0].name
+        def buildType = variant.variantData.variantConfiguration.buildType.name
+        def version = getJenkinsVersionName(getJenkinsVersionCode())
+        def extension = ".apk"
+
+        def newApkName = project + SEP + flavor + SEP + buildType + SEP + version + extension
+        variant.outputs.all { output ->
+            outputFileName = newApkName
+        }
+    }
+
+}

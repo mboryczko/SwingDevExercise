@@ -1,0 +1,152 @@
+Pomieszczenie1.CO2_Act,R,1948
+Pomieszczenie1.CO2_Sp,R,1949
+Pomieszczenie1.N_Poz_Act,R,1962
+Pomieszczenie1.N_Vol_Act,R,1977
+Pomieszczenie1.Nadgodziny,F,1197
+Pomieszczenie1.Nazwa,TEXT,4001
+Pomieszczenie1.Przycisk_reczne_wietrzenie,F,1205 := 0
+Pomieszczenie1.T_Sp,R,2005
+Pomieszczenie1.Temp_Act,R,2002
+Pomieszczenie1.Tryb_CO2,R,2003 := 1
+Pomieszczenie1.Tryb_Temp,R,2004 := 1
+Pomieszczenie1.VOC_Act,R,2010
+Pomieszczenie1.W_Poz_Act,R,2037
+Pomieszczenie1.W_Vol_Act,R,2052
+Pomieszczenie1.Wilgotnosc_Act,R,2011
+Pomieszczenie1.Wybor_parametru_st,R,2036
+Kalendarz.Pomieszczenie1.Enable,F,1093 := 1
+Kalendarz.Pomieszczenie1.Praca_niedziela,F,1095
+Kalendarz.Pomieszczenie1.Praca_sobota,F,1096
+Pomieszczenie2.CO2_Act,R,2055
+Pomieszczenie2.CO2_Sp,R,2056
+Pomieszczenie2.N_Poz_Act,R,2069
+Pomieszczenie2.N_Vol_Act,R,2084
+Pomieszczenie2.Nadgodziny,F,1230
+Pomieszczenie2.Nazwa,TEXT,4002
+Pomieszczenie2.Przycisk_reczne_wietrzenie,F,1238 := 0
+Pomieszczenie2.T_Sp,R,2112
+Pomieszczenie2.Temp_Act,R,2109
+Pomieszczenie2.Tryb_CO2,R,2110 := 1
+Pomieszczenie2.Tryb_Temp,R,2111 := 1
+Pomieszczenie2.VOC_Act,R,2117
+Pomieszczenie2.W_Poz_Act,R,2142
+Pomieszczenie2.W_Vol_Act,R,2157
+Pomieszczenie2.Wilgotnosc_Act,R,2118
+Pomieszczenie2.Wybor_parametru_st,R,2141
+Kalendarz.Pomieszczenie2.Enable,F,1097 := 1
+Kalendarz.Pomieszczenie2.Praca_niedziela,F,1099
+Kalendarz.Pomieszczenie2.Praca_sobota,F,1100
+Pomieszczenie3.CO2_Act,R,2160
+Pomieszczenie3.CO2_Sp,R,2161
+Pomieszczenie3.N_Poz_Act,R,2174
+Pomieszczenie3.N_Vol_Act,R,2189
+Pomieszczenie3.Nadgodziny,F,1264
+Pomieszczenie3.Nazwa,TEXT,4003
+Pomieszczenie3.Przycisk_reczne_wietrzenie,F,1272 := 0
+Pomieszczenie3.T_Sp,R,2217
+Pomieszczenie3.Temp_Act,R,2214
+Pomieszczenie3.Tryb_CO2,R,2215 := 1
+Pomieszczenie3.Tryb_Temp,R,2216 := 1
+Pomieszczenie3.VOC_Act,R,2222
+Pomieszczenie3.W_Poz_Act,R,2247
+Pomieszczenie3.W_Vol_Act,R,2262
+Pomieszczenie3.Wilgotnosc_Act,R,2223
+Pomieszczenie3.Wybor_parametru_st,R,2246
+Kalendarz.Pomieszczenie3.Enable,F,1101 := 1
+Kalendarz.Pomieszczenie3.Praca_niedziela,F,1103
+Kalendarz.Pomieszczenie3.Praca_sobota,F,1104
+Pomieszczenie4.CO2_Act,R,2265
+Pomieszczenie4.CO2_Sp,R,2266
+Pomieszczenie4.N_Poz_Act,R,2279
+Pomieszczenie4.N_Vol_Act,R,2294
+Pomieszczenie4.Nadgodziny,F,1298
+Pomieszczenie4.Nazwa,TEXT,4004
+Pomieszczenie4.Przycisk_reczne_wietrzenie,F,1306 := 0
+Pomieszczenie4.T_Sp,R,2322
+Pomieszczenie4.Temp_Act,R,2319
+Pomieszczenie4.Tryb_CO2,R,2320 := 1
+Pomieszczenie4.Tryb_Temp,R,2321 := 1
+Pomieszczenie4.VOC_Act,R,2327
+Pomieszczenie4.W_Poz_Act,R,2352
+Pomieszczenie4.W_Vol_Act,R,2367
+Pomieszczenie4.Wilgotnosc_Act,R,2328
+Pomieszczenie4.Wybor_parametru_st,R,2351
+Kalendarz.Pomieszczenie4.Enable,F,1105 := 1
+Kalendarz.Pomieszczenie4.Praca_niedziela,F,1107
+Kalendarz.Pomieszczenie4.Praca_sobota,F,1108
+Pomieszczenie5.CO2_Act,R,2370
+Pomieszczenie5.CO2_Sp,R,2371
+Pomieszczenie5.N_Poz_Act,R,2384
+Pomieszczenie5.N_Vol_Act,R,2399
+Pomieszczenie5.Nadgodziny,F,1332
+Pomieszczenie5.Nazwa,TEXT,4005
+Pomieszczenie5.Przycisk_reczne_wietrzenie,F,1340 := 0
+Pomieszczenie5.T_Sp,R,2427
+Pomieszczenie5.Temp_Act,R,2424
+Pomieszczenie5.Tryb_CO2,R,2425 := 1
+Pomieszczenie5.Tryb_Temp,R,2426 := 1
+Pomieszczenie5.VOC_Act,R,2432
+Pomieszczenie5.W_Poz_Act,R,2457
+Pomieszczenie5.W_Vol_Act,R,2472
+Pomieszczenie5.Wilgotnosc_Act,R,2433
+Pomieszczenie5.Wybor_parametru_st,R,2456
+Kalendarz.Pomieszczenie5.Enable,F,1109 := 1
+Kalendarz.Pomieszczenie5.Praca_niedziela,F,1111
+Kalendarz.Pomieszczenie5.Praca_sobota,F,1112
+Pomieszczenie6.CO2_Act,R,2474
+Pomieszczenie6.CO2_Sp,R,2475
+Pomieszczenie6.N_Poz_Act,R,2488
+Pomieszczenie6.N_Vol_Act,R,2503
+Pomieszczenie6.Nadgodziny,F,1365
+Pomieszczenie6.Nazwa,TEXT,4006
+Pomieszczenie6.Przycisk_reczne_wietrzenie,F,1373 := 0
+Pomieszczenie6.T_Sp,R,2531
+Pomieszczenie6.Temp_Act,R,2528
+Pomieszczenie6.Tryb_CO2,R,2529 := 1
+Pomieszczenie6.Tryb_Temp,R,2530 := 1
+Pomieszczenie6.VOC_Act,R,2536
+Pomieszczenie6.W_Poz_Act,R,2561
+Pomieszczenie6.W_Vol_Act,R,2576
+Pomieszczenie6.Wilgotnosc_Act,R,2537
+Pomieszczenie6.Wybor_parametru_st,R,2560
+Kalendarz.Pomieszczenie6.Enable,F,1113 := 1
+Kalendarz.Pomieszczenie6.Praca_niedziela,F,1115
+Kalendarz.Pomieszczenie6.Praca_sobota,F,1116
+Pomieszczenie7.CO2_Act,R,2578
+Pomieszczenie7.CO2_Sp,R,2579
+Pomieszczenie7.N_Poz_Act,R,2592
+Pomieszczenie7.N_Vol_Act,R,2607
+Pomieszczenie7.Nadgodziny,F,1398
+Pomieszczenie7.Nazwa,TEXT,4007
+Pomieszczenie7.Przycisk_reczne_wietrzenie,F,1406 := 0
+Pomieszczenie7.T_Sp,R,2635
+Pomieszczenie7.Temp_Act,R,2632
+Pomieszczenie7.Tryb_CO2,R,2633 := 1
+Pomieszczenie7.Tryb_Temp,R,2634 := 1
+Pomieszczenie7.VOC_Act,R,2640
+Pomieszczenie7.W_Poz_Act,R,2665
+Pomieszczenie7.W_Vol_Act,R,2680
+Pomieszczenie7.Wilgotnosc_Act,R,2641
+Pomieszczenie7.Wybor_parametru_st,R,2664
+Kalendarz.Pomieszczenie7.Enable,F,1117 := 1
+Kalendarz.Pomieszczenie7.Praca_niedziela,F,1119
+Kalendarz.Pomieszczenie7.Praca_sobota,F,1120
+Pomieszczenie8.CO2_Act,R,2682
+Pomieszczenie8.CO2_Sp,R,2683
+Pomieszczenie8.N_Poz_Act,R,2696
+Pomieszczenie8.N_Vol_Act,R,2711
+Pomieszczenie8.Nadgodziny,F,1431
+Pomieszczenie8.Nazwa,TEXT,4008
+Pomieszczenie8.Przycisk_reczne_wietrzenie,F,1439 := 0
+Pomieszczenie8.T_Sp,R,2739
+Pomieszczenie8.Temp_Act,R,2736
+Pomieszczenie8.Tryb_CO2,R,2737 := 1
+Pomieszczenie8.Tryb_Temp,R,2738 := 1
+Pomieszczenie8.VOC_Act,R,2744
+Pomieszczenie8.W_Poz_Act,R,2769
+Pomieszczenie8.W_Vol_Act,R,2784
+Pomieszczenie8.Wilgotnosc_Act,R,2745
+Pomieszczenie8.Wybor_parametru_st,R,2768
+Kalendarz.Pomieszczenie8.Enable,F,1121 := 1
+Kalendarz.Pomieszczenie8.Praca_niedziela,F,1123
+Kalendarz.Pomieszczenie8.Praca_sobota,F,1124

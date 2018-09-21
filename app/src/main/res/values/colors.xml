@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C2C34</color>
+    <color name="colorPrimaryDark">#494850</color>
+    <color name="colorAccent">#978897</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="lightGray">#e0e0e0</color>
+    <color name="black">#000000</color>
+    <color name="blackLightTransparent">#64000000</color>
+
+
+    <color name="personNameTextViewBackground">#992C2C34</color>
+
+    <color name="snackbar_background">@color/colorAccent</color>
+    <color name="menu_bar">#00c853</color>
+    <color name="gray">#959595</color>
+    <color name="selectedNavigationViewIconColor">@color/white</color>
+    <color name="notSelectedNavigationViewIconColor">#D8D8D8</color>
+    <color name="divider">#D8D8D8</color>
+    <color name="headerColor">#f4f4f4</color>
+</resources>

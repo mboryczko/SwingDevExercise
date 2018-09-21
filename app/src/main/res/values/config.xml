@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <string name="fabric_api_key">2bb324f3b7f8a8ef24a98f765eb5f79d48483824</string>
+</resources>

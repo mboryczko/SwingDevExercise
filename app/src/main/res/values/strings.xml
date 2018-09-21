@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SwingDev</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoibWJvcnljemtvIiwiYSI6ImNqbWF5N3dzdTI2d3gzdnBveHhia2RieG0ifQ.--Vm8qAXIXAfSd4vAPes2g</string>
+
+
+    <!-- main activity -->
+    <string name="not_synced_yet">Brak aktualnych danych</string>
+
+
+    <!-- communicates -->
+    <string name="communicate_no_internet">No active internet connection</string>
+    <string name="last_sync">Last synchronization</string>
+    <string name="people_on_iss">There are X people on the ISS</string>
+    <string name="no_sync_history">No data fetched</string>
+
+
+</resources>
